@@ -8,7 +8,7 @@ const Menu = [
 		image: Work1,
 		title: "Jorket",
 		category: ["Full Stack", "Java"],
-		repositoryUrl: "https://github.com/karthik128999/jorket",
+		repositoryUrl: "https://github.com/karthikveerla/jorket",
 		description: "A scalable full-stack web platform connecting blue-collar service providers with customers. Features include KYC verification, real-time service booking, in-app payments, reviews, and admin tools for user and database management."
 	},
 	{
@@ -16,7 +16,7 @@ const Menu = [
 		image: Work2,
 		title: "AI-Powered Faculty Subject Allocation System",
 		category: ["Frontend", "Django"],
-		repositoryUrl: "https://github.com/karthik128999/python_subject_allocation",
+		repositoryUrl: "https://github.com/karthikveerla/python_subject_allocation",
 		description: "Automated subject allocation system using Django microservices, Oracle SQL optimization, and a React.js dashboard. Deployed with Docker and AWS Lambda for scalability, ensuring fairness and efficiency through analytics."
 	}
 	// {
@@ -24,7 +24,7 @@ const Menu = [
 	// 	image: Work3,
 	// 	title: "Project3",
 	// 	category: ["Frontend"],
-	// 	repositoryUrl: "https://github.com/karthik128999/jorket",
+	// 	repositoryUrl: "https://github.com/karthikveerla/jorket",
 	// 	description:"Hello description"
 	// }
 ];
